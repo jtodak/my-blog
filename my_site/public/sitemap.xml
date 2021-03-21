@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://test123.com/</loc>
+    </url>
+    <url>
+        <loc>https://test123.com/categories/</loc>
+    </url>
+    <url>
+        <loc>https://test123.com/categories/hello-world/</loc>
+    </url>
+    <url>
+        <loc>https://test123.com/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://test123.com/some-article/</loc>
+        <lastmod>2017-09-24</lastmod>
+    </url>
+    <url>
+        <loc>https://test123.com/some-other-article/</loc>
+        <lastmod>2017-09-25</lastmod>
+    </url>
+    <url>
+        <loc>https://test123.com/tags/</loc>
+    </url>
+    <url>
+        <loc>https://test123.com/tags/other/</loc>
+    </url>
+    <url>
+        <loc>https://test123.com/tags/rust/</loc>
+    </url>
+    <url>
+        <loc>https://test123.com/tags/ssg/</loc>
+    </url>
+</urlset>
