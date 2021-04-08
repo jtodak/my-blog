@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jtodak.github.io/my-blog/sitemap.xml

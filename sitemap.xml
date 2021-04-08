@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://jtodak.github.io/my-blog/</loc>
+    </url>
+    <url>
+        <loc>https://jtodak.github.io/my-blog/hajduk/</loc>
+        <lastmod>2017-09-25</lastmod>
+    </url>
+    <url>
+        <loc>https://jtodak.github.io/my-blog/on-cryptocurrencies/</loc>
+        <lastmod>2017-09-25</lastmod>
+    </url>
+    <url>
+        <loc>https://jtodak.github.io/my-blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://jtodak.github.io/my-blog/tags/</loc>
+    </url>
+    <url>
+        <loc>https://jtodak.github.io/my-blog/tags/branding/</loc>
+    </url>
+    <url>
+        <loc>https://jtodak.github.io/my-blog/tags/crypto/</loc>
+    </url>
+    <url>
+        <loc>https://jtodak.github.io/my-blog/tags/football/</loc>
+    </url>
+    <url>
+        <loc>https://jtodak.github.io/my-blog/tags/other/</loc>
+    </url>
+</urlset>
