@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title> - other</title>
+	<link href="https://jtodak.github.io/my-blog/tags/other/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://jtodak.github.io/my-blog/"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2017-09-25T00:00:00+00:00</updated>
+	<id>https://jtodak.github.io/my-blog/tags/other/atom.xml</id>
+	<entry xml:lang="en">
+		<title>The strongest brand in Croatia – Hajduk</title>
+		<published>2017-09-25T00:00:00+00:00</published>
+		<updated>2017-09-25T00:00:00+00:00</updated>
+		<link href="https://jtodak.github.io/my-blog/hajduk/" type="text/html"/>
+		<id>https://jtodak.github.io/my-blog/hajduk/</id>
+		<content type="html">&lt;p&gt;&lt;strong&gt;Why Hajduk?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Football clubs are amazing things, they are institutions, family traditions and a source of identity. Some are regional, or national affairs, while others become international phenomenons.&lt;&#x2F;p&gt;
+&lt;p&gt;Hajduk is not an internationally recognisable club. As of the time of this writing they suck. Placing 5th in HNL with a total of 17 points vs 1st placed Dinamo with 33 points. But things get interesting when we take a look at attendance figures.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;For the current 2020-21 season Hajduk’s average &lt;a href=&quot;https:&#x2F;&#x2F;prvahnl.hr&#x2F;statistika&#x2F;gledatelji&#x2F;&quot;&gt;attendance&lt;&#x2F;a&gt; was 3126 spectators per game, while Dinamo averaged 1059. Also it is interesting to note that according to &lt;a href=&quot;https:&#x2F;&#x2F;football-observatory.com&#x2F;-About-&quot;&gt;CIES Football Observatory Monthly Report 44&lt;&#x2F;a&gt; for five seasons between 2013 and 2018 Hajduk was responsible for 33.9% of total HNL attendances, it should be noted that they placed 3rd during those years.&lt;&#x2F;p&gt;
+&lt;p&gt;This just shows that Hajduk has a crazy loyal fan base, and that brings me to the headline. Is such a loyal fanbase enough to be Croatias strongest brand? My answer is a resounding Yes.&lt;&#x2F;p&gt;
+&lt;p&gt;But let’s first define and then quantify what does it mean to be a “strong brand”.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;“Strong Brand”&lt;&#x2F;strong&gt; – Im using the phrase strong vs valuable on purpose. Strong means it is recognisable, it can stand on its own. It’s more than just a brand, it has a strong identity behind it, and it will influence people to buy different products just by being associated with the brand. Also the brand value is a large part of the corporations value.&lt;&#x2F;p&gt;
+&lt;p&gt;For example Coca Cola is both valuable and strong. It’s strong because when comparing the prices of a generic coke and Coca Cola, the latter can charge a substantial premium due to its brand. Without it’s brand Coca Cola would just be another soda company.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;“Valuable Brand”&lt;&#x2F;strong&gt;– Since the market for colas is big, and Coca Cola has a substantial amount of market share and can charge a premium price due to its strong brand, it makes it a valuable brand as well.&lt;&#x2F;p&gt;
+&lt;p&gt;When talking about Hajduk as a brand i am not taking into account the players, for the sake of this conversation they are irrelevant. What i am saying is that Hajduk as a brand will always be able to get people in the stands, it will be able to associate it’s name to any product and that product will be able to charge a premium based on the Hajduk logo or affiliation. That is what brings the sponsors, sells merchandise and enables a healthy cashflow which doesn’t depend on selling off players.&lt;&#x2F;p&gt;
+&lt;p&gt;Better results on the pitch will result in growing the fanbase and will drive the value higher, but the strength of the brand was and will be there.
+That is exactly what Hajduk needs to capitalise on.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Quantifying Hajduk’s Brand Strength and value&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Methodology: In order to quantify how valuable is the Hajduk brand we have to define 3 things:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Club Value&lt;&#x2F;li&gt;
+&lt;li&gt;Brand Value&lt;&#x2F;li&gt;
+&lt;li&gt;Brand Strength (expressed as a percentage of Brand Value&#x2F;Club Value)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;&lt;strong&gt;Methodology&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;To calculate the Club Value I used a multivariate model developed by Tom Markham, the original can be found &lt;a href=&quot;https:&#x2F;&#x2F;papers.ssrn.com&#x2F;sol3&#x2F;papers.cfm?abstract_id=2238265&quot;&gt;here&lt;&#x2F;a&gt;. While it’s not perfect, it gives a good enough approximation of value.&lt;&#x2F;p&gt;
+&lt;p&gt;$$ Club Valuation = (Revenue + Net Assets) * \frac{(Net Profit + Revenue)}{Revenue} * (Stadium Capacity%)\div(Wage Ratio%)$$&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Case 1:&lt;&#x2F;strong&gt; Valuation without player transfers and registrations&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th align=&quot;center&quot;&gt;&lt;strong&gt;2019&lt;&#x2F;strong&gt;&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Revenue&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;39.850.278&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Matchday revenue&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;9.028.041&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Broadcasting revenue&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;1.779.437&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Commercial revenue&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;29.042.800&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Sponsorship&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;14.527.284&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Merchandising&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;8.125.922&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Other&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;6.389.594&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Net Assets&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;182.515.522&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Fix Assets&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;160.999.752&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Current Assets&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;109.057.241&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Curreent Debt&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;69.439.350&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Long Termn Debt&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;18.102.121&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Net Profit&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;4.979.814&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Stadium capacity (%)&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;0,39&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Wage Ratio&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;1,807&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Club Value&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;53.984.140 HRK&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Club Value&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;7.197885 EUR&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;Case 2:&lt;&#x2F;strong&gt;  Valuation taking into account player transfers and registrations&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th align=&quot;center&quot;&gt;&lt;strong&gt;2019&lt;&#x2F;strong&gt;&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Revenue&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;151.322.684&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Matchday revenue&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;9.028.041&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Broadcasting revenue&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;1.779.437&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Commercial revenue&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;29.042.800&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Sponsorship&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;14.527.284&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Merchandising&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;8.125.922&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Other&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;6.389.594&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Net Assets&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;182.515.522&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Fix Assets&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;160.999.752&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Current Assets&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;109.057.241&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Curreent Debt&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;69.439.350&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Long Termn Debt&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;18.102.121&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Net Profit&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;4.979.814&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Stadium capacity (%)&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;0,39&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Wage Ratio&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;0,476&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Club Value&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;282.572.906 HRK&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Club Value&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;37.676.388 EUR&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;2. Brand Value&lt;&#x2F;strong&gt; - How much is the Hajduk brand worth?
+To calculate the Brand Value of Hajduk i used the methodology developed by Joao Pedro de Lucena and Joaquim Antonio Casaca, the Doi of the work is 10.17265&#x2F;1537-1506&#x2F;2015.01.006&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Methodology:&lt;&#x2F;strong&gt;
+The Brand Value is calculated by:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;BV = BR x N x BS&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;BV:&lt;&#x2F;strong&gt; Brand Value&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;BR:&lt;&#x2F;strong&gt; Brand Role
+In calculating the brand role a panel of experts was asked “What percentage would you attribute to the impact of the following factors on the operating results of clubs playing in the European premier leagues?”. The answers were as follows.&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Calcualting Brand Role&lt;&#x2F;th&gt;&lt;th align=&quot;center&quot;&gt;&lt;&#x2F;th&gt;&lt;th align=&quot;right&quot;&gt;&lt;&#x2F;th&gt;&lt;th align=&quot;right&quot;&gt;&lt;&#x2F;th&gt;&lt;th align=&quot;right&quot;&gt;&lt;&#x2F;th&gt;&lt;th align=&quot;right&quot;&gt;&lt;&#x2F;th&gt;&lt;th align=&quot;right&quot;&gt;&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Financial&#x2F;Administrative Management&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;Prof.1&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;Prof. 2&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;Prof. 3&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;Prof. 4&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;Prof. 5&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;Average&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Financial&#x2F;Administrative Management&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;15%&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;20%&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;20%&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;5%&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;20%&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;16%&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Brand Management&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;10%&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;10%&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;25%&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;15%&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;20%&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;16%&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Sport Management&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;75%&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;60%&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;50%&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;80%&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;50%&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;63%&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Others&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;0%&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;10%&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;5%&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;0%&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;10%&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;5%&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;BS: Brand strength&lt;&#x2F;strong&gt;: 
+According to the reference work, “Brand strength is the projection of the brand value for a five year period, plus the risk value calculated by applying a discount rate that represents the risk of these profits not happening. The inter brand model predicts that the risk rate is associated with seven different factors, each with different percentages:market stability (10%), brand stability (15%), leadership (25%), means of communication (10%), market share tendency (10%), internationalisation&#x2F;geographical distribution (25%), and legal protection (5%).”
+Brand Strength can go from 0 to 1.
+Since there is no substitute for Hajduk we can safely say that the Brand Strength is a maximum of 1&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;3. Brand Strength&lt;&#x2F;strong&gt;: 
+Is expressed an the percentage of how much is the Brand Value represented in the total club value. The clearest expression of this is Case 1, where there are no player transfers involved, since players rarely come to a club just due to its brand.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Methodology:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Brand Strength = Brand Value &#x2F; Club Value&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th align=&quot;center&quot;&gt;&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Club Value&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;151.322.684&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Brand Value&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;9.028.041&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Brand Role&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;1.779.437&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Number of years&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;29.042.800&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Brand Strength&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;1&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Brand Strength as % = Brand Value&#x2F;Club Value&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;71 %&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;&#x2F;strong&gt; &lt;&#x2F;p&gt;
+&lt;p&gt;From the above Hajduk without player transfers and registrations is worth 53.984 Mil HRK.
+Its Brand is valued at 31.880 HRK, which is 59% of the total value of the club.
+We can see that the Brand Hajduk is a huge driving force behind the value of the commercial business of the club.&lt;&#x2F;p&gt;
+&lt;p&gt;So my question is which Croatian company has such a high dependancy on its brand? And which other brand can stir up so much emotion?&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
