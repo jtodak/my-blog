@@ -1,10 +1,11 @@
 +++
 title = "The strongest brand in Croatia – Hajduk"
-date = 2017-09-25
-category = "Football"
+date = 2021-04-16
+weight = 1
 
 [taxonomies]
-tags = ["Football", "Branding", "other"]
+categories = ["Economics"]
+tags = ["Football"]
 +++
 
 **Why Hajduk?**
@@ -43,9 +44,7 @@ Methodology: In order to quantify how valuable is the Hajduk brand we have to de
 
 To calculate the Club Value I used a multivariate model developed by Tom Markham, the original can be found [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2238265). While it’s not perfect, it gives a good enough approximation of value.
 
-
-$$ Club Valuation = (Revenue + Net Assets) * \frac{(Net Profit + Revenue)}{Revenue} * (Stadium Capacity\%)\div(Wage Ratio\%)$$
-
+![alt text](https://i.ibb.co/DQx0pTc/formula.png  "formula")
 
 
 **Case 1:** Valuation without player transfers and registrations

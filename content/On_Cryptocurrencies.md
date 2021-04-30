@@ -1,9 +1,12 @@
 +++
 title = "On Cryptocurrencies"
+weight = 1
 date = 2017-09-25
 category = "Econimics"
 
+
 [taxonomies]
+categories = ["Economics"]
 tags = ["Crypto"]
 +++
 
