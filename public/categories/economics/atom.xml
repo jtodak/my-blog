@@ -4,8 +4,51 @@
 	<link href="https://jtodak.github.io/my-blog/categories/economics/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://jtodak.github.io/my-blog/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2021-04-16T00:00:00+00:00</updated>
+	<updated>2021-05-08T00:00:00+00:00</updated>
 	<id>https://jtodak.github.io/my-blog/categories/economics/atom.xml</id>
+	<entry xml:lang="en">
+		<title>**It&#x27;s the technology stupid - Dodge Coin, why it matters and why is it a better currency than BTC or ETH**</title>
+		<published>2021-05-08T00:00:00+00:00</published>
+		<updated>2021-05-08T00:00:00+00:00</updated>
+		<link href="https://jtodak.github.io/my-blog/its-the-technology-stupid/" type="text/html"/>
+		<id>https://jtodak.github.io/my-blog/its-the-technology-stupid/</id>
+		<content type="html">&lt;p&gt;Im not an expert on cryptocurrencies, I’m just interested in them, and since I have an economics background I find them fascinating and I love to pick peoples brains about them. 
+So i&#x27;ve spent a lot of time talking with people from various backgrounds about cryptocurrencies.
+The usual question i ask is - why do you think that the coins you choose are going to go up in value?
+Without fail the answers are the same,  “its because of the technology behind the coin”. This revolutionary technology will either revolutionise banking, smart contracts will take the world by storm, or it will make money obsolete.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;&lt;strong&gt;Utility&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;There needs to be a distinction between technology, usefulness and value. Too many times the value of the coin is inversely proportional to the coins utility.&lt;&#x2F;p&gt;
+&lt;p&gt;Ethereum is a great example of this inversion.
+The price of ETH has shot up like a rocket ship in the last year, but what’s behind it’s growth? I personally have no idea, but some of my more informed friends tell me that its due to a new version coming out soon.
+This new version will be a lot more useful. But how does that drive value? If the price goes up with utility, and even worse if the coin is deflationary in nature with a fixed amount or if a set amount is burned to keep the value steady, this is a terrible value proposition for everyone except the coin holders. At that point the coin is no longer a utility, it becomes just a store of speculative value.&lt;&#x2F;p&gt;
+&lt;p&gt;Uniswap is a great example.
+Uniswap a decentralised exchange in which users pay exchange fees with ETH. It has become very popular, but with the rise of ETH prices each transaction on Uniswap is becoming more and more expansive, thus driving the utility of ETH down. I just can’t get around this clash between price and usefulness. How come a commodities utility increase with the price of that commodity?&lt;&#x2F;p&gt;
+&lt;p&gt;This problem is not unique to ETH, it’s a build in flaw of a lot of coins out there which propose to create a marketplace in which transactions will be settled thru the minted coins. 
+These projects are not selling equity or debt, they are essentially selling fuel to the public and telling the story that once the marketplace is operational all actors will be forced to purchase the coins from the early purchasers, this creates a captive audience and the prices of the coin will go up until a certain point when the price of the coin exceeds the utility value of it.
+And if the coin is deflationary the problem of the diminishing utility is even greater. &lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Technology&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The tech aspect of each coin is a bit different, there can be great tech underlying a crypto project, but if the coins are not exchangeable for debt or equity in the company behind it (which owns the tech) then there is no connection between the underlying tech and the value of the coin.&lt;&#x2F;p&gt;
+&lt;p&gt;BTC is a great example, in it’s earlier days people bought Bitcoin supposedly because the blockchain technology will revolutionise banking and currency. I’ve heard this argument from both very tech savvy and tech illiterate people, but no one could explain the mechanics of why a increase in usage of blockchain technology will increase the price of Bitcoin. The only exception is that more people will understand what Bitcoin is and that will increase the demand for it, which will drive the price up. Again no connection to the underlying tech.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Currency&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;As things stand today BTC is a store of value, ETH is a utility (with all of the above limitations), so why is Dodecoin so valuable and what makes it the best currency out of the three?&lt;&#x2F;p&gt;
+&lt;p&gt;I thinks its down to 1) It’s understandable, 2) Elon Musk 3) Network effect 4) It’s not deflationary&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;It’s understandable&lt;&#x2F;strong&gt; - Dodge is not trying to sell itself as something greater than just a fun coin with a friendly dog as its mascot. It&#x27;s just a fun coin, there is no special use, there is no fancy tech behind it, everyone can understand it.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Elon Musk&lt;&#x2F;strong&gt; - If God Emperor Musk endorses it, its cool. The kind of marketing he brings to such a simple and honest coin is enormous&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Network effect&lt;&#x2F;strong&gt; - For a currency to be useful it needs to be accepted. This builds on the two previous points more people buy into it and it creates a network effect which build upon itself.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Not deflationary&lt;&#x2F;strong&gt; - There is not fixed amount of dodge, which actually makes it a better currency, since the incentive to hoard it like BTC is not so pronounced. The price of it will fluctuate, but once (if) it stabilises the fact that it’s not zero sum, combined with sufficient network effects makes it a great currency to use online. Some use cases would be to purchase in game items, indy games, music, etc, since crypto currencies do offer certain advantages compared to traditional currencies. Mainly speed &amp;amp; anonymity.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>The strongest brand in Croatia – Hajduk</title>
 		<published>2021-04-16T00:00:00+00:00</published>
